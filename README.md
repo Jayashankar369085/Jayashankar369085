@@ -1,16 +1,109 @@
-## Hi there 👋
+# 👋 Hi, I'm Jayashankar
 
-<!--
-**Jayashankar369085/Jayashankar369085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Developer | 🤖 AI/ML Enthusiast | 🚗 Automotive Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student who enjoys building **AI-powered applications, software solutions, and automotive technology projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 Currently building AI/ML and full-stack projects
+* 🤖 Exploring Artificial Intelligence, Machine Learning & Computer Vision
+* 🚗 Interested in Automotive Software & Technology
+* 🧠 Practicing Data Structures & Algorithms
+* 💡 Interested in solving real-world problems through technology
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages:**
+C • C++ • Java • Python • JavaScript • SQL
+
+**Web Development:**
+HTML • CSS • Bootstrap • React • Next.js
+
+**AI / ML:**
+Python • Pandas • NumPy • Scikit-learn • TensorFlow • Computer Vision
+
+**Backend & Database:**
+FastAPI • REST APIs • MySQL • MongoDB • Firebase
+
+**Tools:**
+Git • GitHub • VS Code • Android Studio
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 MediAssist
+
+**AI-Powered Smart Medication Management System**
+
+An AI-powered application combining medication management, prescription analysis, symptom analysis and healthcare-related features.
+
+**Tech:** Flutter • Firebase • Python • FastAPI • Machine Learning
+
+---
+
+### 💰 FinSight AI
+
+**AI Finance Controller**
+
+An AI-powered financial analysis system designed to identify transaction anomalies, explain financial impact and provide actionable insights.
+
+**Tech:** Next.js • FastAPI • Python • Pandas • Scikit-learn • SQLite
+
+---
+
+### 🚗 CruzeLab
+
+**Car Customization Platform**
+
+A web-based automotive platform designed to provide an interactive vehicle customization experience.
+
+**Tech:** HTML • CSS • JavaScript • Bootstrap • PHP • MySQL
+
+---
+
+### 🚘 Gesture-Controlled Car Infotainment
+
+A computer-vision based interface that uses hand gestures to interact with an automotive infotainment system.
+
+**Tech:** Python • MediaPipe • Computer Vision
+
+---
+
+### 🌱 CarboTrack
+
+A web application for estimating vehicle-related carbon emissions based on vehicle and driving parameters.
+
+**Tech:** HTML • CSS • JavaScript • Bootstrap
+
+---
+
+## 🏆 Achievements
+
+* 🥉 WebXellence 2024 — 3rd Prize
+* 🥈 WebXellence 2025 — 2nd Prize
+* 🏅 Outstanding Student — Academic Year 2023–2024
+* 💻 Participated in Hackathons & Buildathons
+* 📊 Participated in Kaggle ML competitions like Kaggriculture 2K26
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayashankar369085&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayashankar369085&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jayashankar-p-a67315293)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://jayashankar-p.vercel.app/)
+
+---
+
+### 🚀 Building • Learning • Experimenting
