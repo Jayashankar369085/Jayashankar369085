@@ -276,7 +276,7 @@ AI-based vehicle recognition project using computer vision and machine learning.
 
 ### 🚀 Build → Break → Learn → Build Again.
 
-<img src="[https://usagif.com/wp-content/uploads/2022/hqgif/superc-79-supercar-animated.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRsMG9ubGU5emZtMHFwcTA0dzJ5d3l4dm93ZDY1aDcxdTZoOWxqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XcjLFw91Pc9zzYq915/giphy.gif)" width="500">
+<img src="https://giphy.com/stickers/pirelli-pertamina-super-trofeo-XcjLFw91Pc9zzYq915" width="500">
 
 **Thanks for visiting my profile!**
 
