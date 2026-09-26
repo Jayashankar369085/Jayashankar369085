@@ -276,7 +276,7 @@ AI-based vehicle recognition project using computer vision and machine learning.
 
 ### 🚀 Build → Break → Learn → Build Again.
 
-<img src="https://giphy.com/stickers/pirelli-pertamina-super-trofeo-XcjLFw91Pc9zzYq915" width="500">
+<img src="https://i.giphy.com/XcjLFw91Pc9zzYq915.webp" width="500">
 
 **Thanks for visiting my profile!**
 
