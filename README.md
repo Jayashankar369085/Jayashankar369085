@@ -280,6 +280,7 @@ AI-based vehicle recognition project using computer vision and machine learning.
 <img src="https://i.giphy.com/XcjLFw91Pc9zzYq915.webp" width="500">
 <br>
 <br>
-**Thanks for visiting my profile!**
+
+Thanks for visiting my profile!
 
 </div>
