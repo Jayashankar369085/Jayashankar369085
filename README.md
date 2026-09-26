@@ -275,9 +275,11 @@ AI-based vehicle recognition project using computer vision and machine learning.
 <div align="center">
 
 ### 🚀 Build → Break → Learn → Build Again.
-
+<br>
+<br>
 <img src="https://i.giphy.com/XcjLFw91Pc9zzYq915.webp" width="500">
-
+<br>
+<br>
 **Thanks for visiting my profile!**
 
 </div>
