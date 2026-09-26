@@ -201,14 +201,6 @@ AI-based vehicle recognition project using computer vision and machine learning.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jayashankar369085&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayashankar369085&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📈 GitHub Activity
 
