@@ -1,249 +1,281 @@
-<h1 align="center">Hi 👋, I'm Jayashankar</h1>
+<div align="center">
 
-<h3 align="center">
-  Computer Science Engineer from India, building AI-powered applications,
-  intelligent agents, and web experiences.
-</h3>
+# 👋 Hi, I'm Jayashankar
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayashankar369085&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+### AI / Full-Stack Developer · Computer Science Engineer · Builder
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jayashankar369085&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on **InterVue AI** — an AI-powered interview platform
-- 🧠 Interested in **AI Agents, Generative AI, LLMs and intelligent automation**
-- 🌱 I’m currently learning **AWS, AI Agents, LLMs & Generative AI**
-- 💻 I enjoy building **AI-powered applications that solve real-world problems**
-- 🛠️ I work across **AI/ML, Full-Stack Development and Cloud**
-- 🚀 I participate in **Hackathons, Buildathons and Developer Communities**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://jayashankar-p.vercel.app/)**
-- 📫 Reach me at **jayashankaryt14@gmail.com**
-
----
-
-### 🧠 What I'm Interested In
-
-- 🤖 AI Agents & Autonomous Systems
-- 🧠 Generative AI & LLM Applications
-- 👁️ Computer Vision
-- ☁️ AWS & Cloud Computing
-- 🌐 Full-Stack Development
-- ⚙️ AI-powered Developer Tools
-- 🔍 Intelligent Automation
-
----
-
-### 🔭 Featured Project
-
-#### 🎙️ InterVue AI
-
-An AI-powered interview platform designed to conduct dynamic interviews,
-analyze responses and provide meaningful feedback.
-
-**Tech:** AI • LLMs • Voice AI • Next.js • AWS
-
-👉 **Live Project:**  
-https://main.dhoxch7krfvdk.amplifyapp.com/
-
----
-
-### 💻 Projects
-
-Some of the projects I've worked on:
-
-- 🎙️ **InterVue AI** — AI-powered interview platform
-- 🔎 **VeriFYI** — AI-based internship and job opportunity verification platform
-- 💰 **FinSight AI** — AI-powered finance controller for transaction analysis
-- 💊 **MediAssist** — AI-powered smart medication management system
-- 🚗 **CruzeLab** — Car customization platform
-- 🧠 **CarGo** — AI-based car recognition project
-- 🌱 **Virtual Herbal Garden** — Interactive platform for learning about medicinal plants
-- 🚘 **Gesture Controlled Car Infotainment System** — Computer vision based interaction system
-
-👉 **Explore more:**  
-https://jayashankar-p.vercel.app/
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-
-<a href="https://dart.dev" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/Style/CSS/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</a>
-
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-</a>
-
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-</a>
-
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-</a>
-
-<a href="https://aws.amazon.com" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</a>
-
-<a href="https://aws.amazon.com/amplify/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amplify/amplify-original.svg" alt="AWS Amplify" width="40" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</a>
-
-<a href="https://www.arduino.cc/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-</a>
-
-<a href="https://flutter.dev" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayashankar369085&show_icons=true&theme=tokyonight&hide_border=true" alt="Jayashankar's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayashankar369085&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 📈 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayashankar369085&theme=github-compact&hide_border=true" alt="GitHub Contributions" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/jayashankar-p-url369085" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<a href="https://github.com/Jayashankar369085" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
-</a>
-
-<a href="https://www.kaggle.com/jayashankar369085" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30" width="40" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/jayashankaryt14" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" height="30" width="40" />
-</a>
-
-<a href="https://leetcode.com/jayashankar-p" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="30" width="40" />
-</a>
-
-</p>
-
----
-
-### 📄 Resume
+I build **AI-powered applications, intelligent agents and real-world software solutions.**
 
 <p>
-  <a href="https://drive.google.com/file/d/1jCMGIxyNu81ITiGeMulgipHn7U-XPigT/view?usp=drive_link">
-    <strong>View My Resume →</strong>
+  <a href="https://jayashankar-p.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:jayashankaryt14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jayashankar-p-url369085">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jayashankar369085">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```text
+🎓 Computer Science Engineer
+🤖 Building AI-powered applications & AI agents
+☁️ Exploring AWS & cloud technologies
+🌐 Full-stack development enthusiast
+🧠 Interested in LLMs, Generative AI & intelligent automation
+🏆 Hackathon & project enthusiast
+```
+
+I enjoy taking an idea from **"What if we built this?"** to a working product.
+
+---
+
+## 🔥 What I'm Building
+
+### 🎙️ InterVue AI
+
+An AI-powered interview platform that conducts dynamic interviews,
+analyzes responses and provides meaningful feedback.
+
+**AI • LLMs • Voice AI • Next.js • AWS**
+
+<p>
+  <a href="https://main.dhoxch7krfvdk.amplifyapp.com/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-InterVue%20AI-8A2BE2?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
+## 💻 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🔎 VeriFYI
+
+AI-powered platform designed to help students identify whether internship and job opportunities are genuine or potentially fraudulent.
+
+**AI • AWS • Web Development**
+
+</td>
+
+<td width="50%">
+
+### 💰 FinSight AI
+
+AI-powered finance controller designed to analyze transactions, detect anomalies and explain financial impact.
+
+**AI • FastAPI • Python • ML**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💊 MediAssist
+
+AI-powered smart medication management system with prescription analysis, reminders and intelligent assistance.
+
+**Flutter • Firebase • AI/ML**
+
+</td>
+
+<td width="50%">
+
+### 🚗 CruzeLab
+
+Interactive car customization platform allowing users to explore and customize vehicles.
+
+**HTML • CSS • Bootstrap • JavaScript • PHP • MySQL**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🚘 Gesture Controlled Infotainment
+
+Computer-vision based interface using hand gestures to interact with an automotive infotainment system.
+
+**Python • MediaPipe • Computer Vision**
+
+</td>
+
+<td width="50%">
+
+### 🚗 CarGo
+
+AI-based vehicle recognition project using computer vision and machine learning.
+
+**Python • TensorFlow • Computer Vision**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧠 What I'm Exploring
+
 <p align="center">
-  <i>Building. Learning. Experimenting. Repeating. 🚀</i>
+
+<img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
 </p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" />
+</p>
+
+### 🌐 Web & Backend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+### ☁️ Cloud / Database / Tools
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jayashankar369085&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayashankar369085&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+
+<a href="https://github.com/Jayashankar369085">
+  <img src="https://img.shields.io/github/followers/Jayashankar369085?label=Followers&style=for-the-badge&logo=github&color=181717" />
+</a>
+
+<a href="https://github.com/Jayashankar369085?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Jayashankar369085?affiliations=OWNER&label=Repository%20Stars&style=for-the-badge&logo=github&color=181717" />
+</a>
+
+<a href="https://github.com/Jayashankar369085?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+> 🟩 View my complete contribution history on my [GitHub profile](https://github.com/Jayashankar369085).
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jayashankar-p-url369085">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Jayashankar369085">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.kaggle.com/jayashankar369085">
+<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/jayashankaryt14">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+</a>
+
+<a href="https://leetcode.com/jayashankar-p">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1jCMGIxyNu81ITiGeMulgipHn7U-XPigT/view?usp=drive_link">
+<img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Build → Break → Learn → Build Again.
+
+**Thanks for visiting my profile!**
+
+</div>
